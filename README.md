@@ -4,3 +4,5 @@
 | Название проекта              | Описание          
 | :-------------------- | :---------------------- |
 |Построение дашбордов в Tableau  | Cоздание дашбордов на основе данных о конференциях TED |  
+
+[Tableau_Визуализация](https://public.tableau.com/app/profile/sofya.p2596/viz/Presentation_version3/Story1)
